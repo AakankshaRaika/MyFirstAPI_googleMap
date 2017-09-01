@@ -1,0 +1,26 @@
+{"project_name":"Arcadia",
+	"sections":
+		[
+		{"name":"Cast","credits":
+		   [
+			{"alias":"Thomas Constantine Moore",
+			 "profile_pic_url":"https://yollerstore.blob.core.windows.net/img/115.jpg",
+			 "userID":2,
+			 "roles":
+				[
+				{"label":"Septimus"}
+				]
+			},
+		        {"alias":"Darren Caulley",
+                         "profile_pic_url":"https://yollerstore.blob.core.windows.net/img/4.jpg",
+		         "userID":1,
+		         "roles":
+		        	[
+		        	{"label":"Bernard"},
+                        	{"label":"Byron"}
+                        	]
+                        }
+                    ]
+                }
+                ]
+}
